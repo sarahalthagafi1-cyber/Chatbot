@@ -1,0 +1,5 @@
+<?php
+
+const GEMINI_API_KEY ="1234";
+
+?>
