@@ -152,13 +152,11 @@ The final chatbot can:
 - Read the response aloud
 - Run online through ProFreeHost
 
-## Project Status
 
-Completed and working successfully.
 
 ## Author
 
-Sarah Althagafi
+Sarah Ahmed Althagafi
 
 ## Links
 
@@ -166,6 +164,3 @@ Sarah Althagafi
 
 https://speechtotextt.liveblog365.com/
 
-### GitHub
-
-https://github.com/sarahalthagafi1-cyber/
